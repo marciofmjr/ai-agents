@@ -1,6 +1,6 @@
 # Skills Inventory
 
-Total: 35
+Total: 34
 
 1. `angular-specialist` - Arquiteto Angular ponta a ponta (Angular v21+).
 2. `aws-cloudfront-specialist` - Especialista em Amazon CloudFront
@@ -34,7 +34,5 @@ Total: 35
 30. `task-planner` - Planner para mudancas grandes, decomposicao em etapas, riscos, dependencias e estrategia de rollout rollback. Use quando o output principal for plano executavel. Nao use para implementar codigo direto sem necessidade de planejamento detalhado.
 31. `test-engineer` - Especialista em testes para estrategia, escrita e melhoria de testes unitarios, integracao e E2E. Use para aumentar confiabilidade e cobertura de comportamento. Nao use para investigar bug em producao sem hipoteses de teste claras (use debugger-specialist).
 32. `ui-ux-specialist` - Especialista em UI UX para direcao visual, sistema de design, layout, tipografia, cor, motion e experiencia de uso. Use quando a decisao principal for design da interface. Nao use para implementacao tecnica detalhada de framework (use frontend-engineer ou angular-specialist).
-33. `zzzteste` - Lightweight test skill for validating skill triggering and execution flow. Use when the user explicitly mentions "zzzteste" or asks to run a basic skill smoke test.
-34. `vitest-specialist` - Senior Vitest Architect especialista em testes unitarios, integracao e CI/CD.
-
-35. `jest-specialist` - Senior Jest Architect especialista em testes unitarios, integracao e CI/CD. Use para configurar Jest, escrever e revisar testes, aplicar mocking, cobertura e integracao em pipelines.
+33. `vitest-specialist` - Senior Vitest Architect especialista em testes unitarios, integracao e CI/CD.
+34. `jest-specialist` - Senior Jest Architect especialista em testes unitarios, integracao e CI/CD. Use para configurar Jest, escrever e revisar testes, aplicar mocking, cobertura e integracao em pipelines.
