@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aws Elasticbeanstalk Specialist"
+  short_description: "Help with Aws Elasticbeanstalk Specialist tasks"
+  default_prompt: "Use $aws-elasticbeanstalk-specialist to handle this task with the skill workflow."

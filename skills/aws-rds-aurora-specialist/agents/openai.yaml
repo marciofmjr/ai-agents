@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aws Rds Aurora Specialist"
+  short_description: "Help with Aws Rds Aurora Specialist tasks"
+  default_prompt: "Use $aws-rds-aurora-specialist to handle this task with the skill workflow."

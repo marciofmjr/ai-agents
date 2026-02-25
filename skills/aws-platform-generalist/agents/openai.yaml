@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aws Platform Generalist"
+  short_description: "Help with Aws Platform Generalist tasks"
+  default_prompt: "Use $aws-platform-generalist to handle this task with the skill workflow."

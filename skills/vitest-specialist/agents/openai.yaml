@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vitest Specialist"
+  short_description: "Arquitetura e boas praticas com Vitest"
+  default_prompt: "Use $vitest-specialist para configurar e evoluir os testes Vitest deste projeto."

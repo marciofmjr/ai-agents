@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Ux Specialist"
+  short_description: "Help with UI Ux Specialist tasks"
+  default_prompt: "Use $ui-ux-specialist to handle this task with the skill workflow."

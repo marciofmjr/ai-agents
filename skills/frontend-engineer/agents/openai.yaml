@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Engineer"
+  short_description: "Help with Frontend Engineer tasks"
+  default_prompt: "Use $frontend-engineer to handle this task with the skill workflow."

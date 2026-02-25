@@ -1,0 +1,4 @@
+interface:
+  display_name: "Graphql Specialist"
+  short_description: "Help with Graphql Specialist tasks"
+  default_prompt: "Use $graphql-specialist to handle this task with the skill workflow."

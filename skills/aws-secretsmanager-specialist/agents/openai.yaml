@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aws Secretsmanager Specialist"
+  short_description: "Help with Aws Secretsmanager Specialist tasks"
+  default_prompt: "Use $aws-secretsmanager-specialist to handle this task with the skill workflow."

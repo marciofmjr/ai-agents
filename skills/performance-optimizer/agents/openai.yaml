@@ -1,0 +1,4 @@
+interface:
+  display_name: "Performance Optimizer"
+  short_description: "Help with Performance Optimizer tasks"
+  default_prompt: "Use $performance-optimizer to handle this task with the skill workflow."

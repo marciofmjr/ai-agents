@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pull Request Writer"
+  short_description: "Help with Pull Request Writer tasks"
+  default_prompt: "Use $pull-request-writer to handle this task with the skill workflow."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zzzteste"
+  short_description: "Run a minimal skill smoke test."
+  default_prompt: "Execute the zzzteste smoke test workflow."

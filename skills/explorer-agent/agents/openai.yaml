@@ -1,0 +1,4 @@
+interface:
+  display_name: "Explorer Agent"
+  short_description: "Help with Explorer Agent tasks"
+  default_prompt: "Use $explorer-agent to handle this task with the skill workflow."

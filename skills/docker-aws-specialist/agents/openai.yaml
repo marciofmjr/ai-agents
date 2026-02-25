@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docker Aws Specialist"
+  short_description: "Help with Docker Aws Specialist tasks"
+  default_prompt: "Use $docker-aws-specialist to handle this task with the skill workflow."

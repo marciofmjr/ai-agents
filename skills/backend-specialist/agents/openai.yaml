@@ -1,0 +1,4 @@
+interface:
+  display_name: "Backend Specialist"
+  short_description: "Help with Backend Specialist tasks"
+  default_prompt: "Use $backend-specialist to handle this task with the skill workflow."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aws Lambda Specialist"
+  short_description: "Help with Aws Lambda Specialist tasks"
+  default_prompt: "Use $aws-lambda-specialist to handle this task with the skill workflow."

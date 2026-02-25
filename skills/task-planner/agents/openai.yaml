@@ -1,0 +1,4 @@
+interface:
+  display_name: "Task Planner"
+  short_description: "Help with Task Planner tasks"
+  default_prompt: "Use $task-planner to handle this task with the skill workflow."

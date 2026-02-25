@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Reviewer"
+  short_description: "Help with Code Reviewer tasks"
+  default_prompt: "Use $code-reviewer to handle this task with the skill workflow."

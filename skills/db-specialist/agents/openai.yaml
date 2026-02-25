@@ -1,0 +1,4 @@
+interface:
+  display_name: "Db Specialist"
+  short_description: "Help with Db Specialist tasks"
+  default_prompt: "Use $db-specialist to handle this task with the skill workflow."

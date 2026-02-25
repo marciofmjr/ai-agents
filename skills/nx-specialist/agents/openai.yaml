@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nx Specialist"
+  short_description: "Help with Nx Specialist tasks"
+  default_prompt: "Use $nx-specialist to handle this task with the skill workflow."

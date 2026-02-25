@@ -1,0 +1,4 @@
+interface:
+  display_name: "Playwright Specialist"
+  short_description: "Help with Playwright Specialist tasks"
+  default_prompt: "Use $playwright-specialist to handle this task with the skill workflow."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aws Route53 Specialist"
+  short_description: "Help with Aws Route53 Specialist tasks"
+  default_prompt: "Use $aws-route53-specialist to handle this task with the skill workflow."

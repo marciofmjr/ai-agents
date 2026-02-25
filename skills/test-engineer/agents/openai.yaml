@@ -1,0 +1,4 @@
+interface:
+  display_name: "Test Engineer"
+  short_description: "Help with Test Engineer tasks"
+  default_prompt: "Use $test-engineer to handle this task with the skill workflow."

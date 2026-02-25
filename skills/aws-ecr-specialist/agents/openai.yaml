@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aws Ecr Specialist"
+  short_description: "Help with Aws Ecr Specialist tasks"
+  default_prompt: "Use $aws-ecr-specialist to handle this task with the skill workflow."

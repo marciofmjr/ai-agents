@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aws Cloudwatch Specialist"
+  short_description: "Help with Aws Cloudwatch Specialist tasks"
+  default_prompt: "Use $aws-cloudwatch-specialist to handle this task with the skill workflow."

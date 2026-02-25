@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aws Cognito Specialist"
+  short_description: "Help with Aws Cognito Specialist tasks"
+  default_prompt: "Use $aws-cognito-specialist to handle this task with the skill workflow."

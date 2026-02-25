@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aws Iam Specialist"
+  short_description: "Help with Aws Iam Specialist tasks"
+  default_prompt: "Use $aws-iam-specialist to handle this task with the skill workflow."

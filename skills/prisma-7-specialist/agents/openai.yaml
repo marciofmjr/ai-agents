@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prisma 7 Specialist"
+  short_description: "Help with Prisma 7 Specialist tasks"
+  default_prompt: "Use $prisma-7-specialist to handle this task with the skill workflow."

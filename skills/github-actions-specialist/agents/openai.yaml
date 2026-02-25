@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Actions Specialist"
+  short_description: "Help with GitHub Actions Specialist tasks"
+  default_prompt: "Use $github-actions-specialist to handle this task with the skill workflow."

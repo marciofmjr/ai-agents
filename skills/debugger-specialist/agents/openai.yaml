@@ -1,0 +1,4 @@
+interface:
+  display_name: "Debugger Specialist"
+  short_description: "Help with Debugger Specialist tasks"
+  default_prompt: "Use $debugger-specialist to handle this task with the skill workflow."

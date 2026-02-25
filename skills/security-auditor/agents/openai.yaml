@@ -1,0 +1,4 @@
+interface:
+  display_name: "Security Auditor"
+  short_description: "Help with Security Auditor tasks"
+  default_prompt: "Use $security-auditor to handle this task with the skill workflow."

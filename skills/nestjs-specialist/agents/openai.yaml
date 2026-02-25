@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nestjs Specialist"
+  short_description: "Help with Nestjs Specialist tasks"
+  default_prompt: "Use $nestjs-specialist to handle this task with the skill workflow."

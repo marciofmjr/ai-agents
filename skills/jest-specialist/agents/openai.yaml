@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jest Specialist"
+  short_description: "Arquitetura e boas praticas com Jest"
+  default_prompt: "Use $jest-specialist para configurar e evoluir os testes Jest deste projeto."

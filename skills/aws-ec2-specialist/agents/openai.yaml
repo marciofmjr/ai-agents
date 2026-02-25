@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aws Ec2 Specialist"
+  short_description: "Help with Aws Ec2 Specialist tasks"
+  default_prompt: "Use $aws-ec2-specialist to handle this task with the skill workflow."
