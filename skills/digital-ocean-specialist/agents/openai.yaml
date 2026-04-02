@@ -1,0 +1,4 @@
+interface:
+  display_name: "DigitalOcean Specialist"
+  short_description: "Troubleshooting e hardening na DigitalOcean"
+  default_prompt: "Use $digital-ocean-specialist para diagnosticar incidentes ou corrigir arquitetura, rede, banco e deploy na DigitalOcean."

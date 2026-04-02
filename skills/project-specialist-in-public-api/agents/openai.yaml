@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Specialist: public-api"
+  short_description: "Help with public-api project tasks"
+  default_prompt: "Use $project-specialist-in-public-api to handle this task with the skill workflow."

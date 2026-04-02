@@ -1,0 +1,4 @@
+interface:
+  display_name: "Preview Branch Orchestrator"
+  short_description: "Orquestra rebase e push seguro para ambiente de preview, detectando automaticamente commits que já estão lá"
+  default_prompt: "Use $preview-branch-orchestrator para integrar minha feature branch na preview. Detecte automaticamente main/master, identifique commits que já estão na preview para não duplicar, e não faça push sem minha autorização explícita. Crie branches temporárias e deixe tudo pronto para validação."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Twilio Specialist"
+  short_description: "Arquitetura e operacao Twilio em producao"
+  default_prompt: "Use $twilio-specialist para desenhar, revisar ou endurecer uma integracao Twilio com webhooks, retries, seguranca e escala."

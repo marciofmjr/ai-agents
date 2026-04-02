@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Specialist Agent Creator"
+  short_description: "Create or update project specialist skills"
+  default_prompt: "Use $project-specialist-agent-creator to create or refresh a project specialist skill for a target project."

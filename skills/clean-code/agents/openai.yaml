@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clean Code"
+  short_description: "Help with Clean Code review and refactoring tasks"
+  default_prompt: "Use $clean-code to handle this task with the skill workflow."

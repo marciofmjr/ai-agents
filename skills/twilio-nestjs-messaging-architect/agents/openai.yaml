@@ -1,0 +1,4 @@
+interface:
+  display_name: "Twilio NestJS Messaging Architect"
+  short_description: "Twilio Messaging com NestJS enterprise"
+  default_prompt: "Use $twilio-nestjs-messaging-architect para desenhar uma arquitetura NestJS com Twilio Messaging, webhooks seguros, filas e workers."

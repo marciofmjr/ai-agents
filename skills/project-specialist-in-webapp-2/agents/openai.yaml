@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Specialist: webapp-2"
+  short_description: "Help with webapp-2 project tasks"
+  default_prompt: "Use $project-specialist-in-webapp-2 to handle this task with the skill workflow."

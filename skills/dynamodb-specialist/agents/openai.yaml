@@ -1,0 +1,4 @@
+interface:
+  display_name: "DynamoDB Specialist"
+  short_description: "Modelagem, custo e performance em DynamoDB"
+  default_prompt: "Use $dynamodb-specialist para revisar access patterns, schema, queries, throttling, custo ou consistencia no DynamoDB."

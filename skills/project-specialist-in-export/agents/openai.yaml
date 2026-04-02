@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Specialist: export"
+  short_description: "Help with export project tasks"
+  default_prompt: "Use $project-specialist-in-export to handle this task with the skill workflow."

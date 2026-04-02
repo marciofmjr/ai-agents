@@ -1,0 +1,4 @@
+interface:
+  display_name: "Twilio Messaging WhatsApp Specialist"
+  short_description: "SMS, WhatsApp e arquitetura enterprise"
+  default_prompt: "Use $twilio-messaging-whatsapp-specialist para revisar uma arquitetura Twilio de SMS ou WhatsApp com compliance, throughput, webhooks e alto volume."

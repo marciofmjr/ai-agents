@@ -1,0 +1,4 @@
+interface:
+  display_name: "Motion Design Specialist"
+  short_description: "Plans and implements purposeful motion systems."
+  default_prompt: "Use $motion-design-specialist to analyze this interface, define a motion system, and implement the lightest viable animation approach."
