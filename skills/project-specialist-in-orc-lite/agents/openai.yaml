@@ -1,4 +1,0 @@
-interface:
-  display_name: "Project Specialist: orc-lite"
-  short_description: "Help with orc-lite project tasks"
-  default_prompt: "Use $project-specialist-in-orc-lite to handle this task with the skill workflow."

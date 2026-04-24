@@ -1,4 +1,0 @@
-interface:
-  display_name: "Project Specialist: guinchox"
-  short_description: "Help with guinchox project tasks"
-  default_prompt: "Use $project-specialist-in-guinchox to handle this task with the skill workflow."
